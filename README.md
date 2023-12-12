@@ -31,7 +31,7 @@ A simple Ruby program that displays a custom message for a given Pokemon.
 Example:
 
     ```bash
-    ruby pokesay.rb pikachu pikachu!
+    ruby pokesay.rb pikachu "pikachu!"
 
 If the Pokemon is not found in the Pokedex, 
 the program will display "Pokemon not found in the Pokedex."
