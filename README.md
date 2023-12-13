@@ -28,7 +28,7 @@ git clone https://github.com/raphaelgpalma/pokesay.git
 
 ## Usage
 
-Syntax:
+Command-Line Syntax:
 
  ```bash
  ruby pokesay.rb <pokemon_name> <message>
