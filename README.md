@@ -25,6 +25,7 @@ A simple Ruby program that displays a custom message for a given Pokemon.
 
 ## Usage
 
+Syntax:
     ```bash
     ruby pokesay.rb <pokemon_name> <message>
 
