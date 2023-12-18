@@ -1,5 +1,10 @@
 # pokesay
 
+<p align="center">
+  <img src="https://github.com/raphaelgpalma/pokesay/blob/main/resources/pikachu.png" alt="Descrição da Imagem">
+</p>
+
+
 A simple Ruby program that displays a custom message for a given Pokemon.
 
 ## Prerequisites
